@@ -1,0 +1,22 @@
+.random-gradient {
+    background: rgb(194, 177, 180);
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgb(194, 177, 180);
+    text-align: center;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+.random-gradient small {
+    padding-bottom: 20px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background: #ce37f2;
+}
